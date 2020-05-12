@@ -2,7 +2,7 @@
 layout: post
 title: "Things to consider before starting a podcast"
 categories: blog
-featured-image: "/images/blog/ThingsToConsiderBeforeStartingPodcast.png"
+featured-image: "/images/blog/ThingsToConcider/ThingsToConsiderBeforeStartingPodcast.png"
 featured-image-alt: Man looking at the Podcast Alarm discover view with headphones on
 description: "Creating a podcast is no different from creating a blog or a YouTube channel and these days the advantages of having one are becoming more and more obvious. However, before starting one there are certain things to consider. Here are some of the most important ones"
 permalink: /blog/things-to-consider-before-starting-a-podcast
@@ -41,6 +41,11 @@ authorImage: "/images/blog/default.png"
 <h2>Find the Right Hosting & Streaming Services</h2>
 
 <p>You might have great and properly edited content for consumption but still run into the trouble of finding listeners. This is why it is important to find the right hosting platform. For hosting, you can check out popular hosting sites such as PodBean, Blubrry, and BuzzSprout.</p>
+
+<br/>
+<img src="/images/blog/ThingsToConcider/Podcaster.jpg" alt="Podcast Host" width="100%"/>
+Photo by Brett Sayles from Pexels
+<br/><br/>
 
 <p>Hosting is only half of the problem; your listeners should be able to stream your episodes with relative ease. With that being said, they are likely to check out popular streaming platforms like Spotify, iTunes, and Anchor. Granted that when you are first starting you might want to use free platforms, and grow your budget. However, as most podcasters have come to realize that these paid sites are necessary for having a great podcast. In addition, you want to avoid moving your podcast to another site later in the future, because this might lead to the loss of listeners.</p>
 
