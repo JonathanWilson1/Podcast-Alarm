@@ -7,4 +7,6 @@ redirect_from: /betatest/
 <br><br>
 {% include infoRow.html %}
 <br>
+{% include tweetRow.html %}
+<br>
 {% include showcaseRow.html %}
