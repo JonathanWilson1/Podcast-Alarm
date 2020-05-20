@@ -2,7 +2,7 @@
 layout: post
 title: "Top 5 Highest Earning Podcasts"
 categories: blog
-featured-image: "/images/blog/5Highest/JoeRogan.jpg"
+featured-image: "/images/blog/5Highest/JoeRogan.png"
 featured-image-alt: Man looking at the Podcast Alarm discover view with headphones on
 description: "So you are thinking of starting a podcast and you are wondering how much money you can make from it. According to Forbes calculations, this is a compiled list of the highest-earning podcasts of 2019."
 permalink: /blog/top-5-highest-earning-podcasts
