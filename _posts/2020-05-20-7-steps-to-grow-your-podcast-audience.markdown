@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7 Steps To Grow Your Podcast Audience"
-categories: blog
+categories: Podcaster
 featured-image: "/images/blog/GrowYourPod/microphone-near-laptop.jpg"
 featured-image-alt: "Microphone and laptop"
 description: "Arguably, the most asked question in the podcast world is, how do I grow my audience?  Building your podcast audience is not a particularly easy task, it often requires a lot of perseverance and hard work."

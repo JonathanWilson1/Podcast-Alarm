@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top Podcasts for Science Lovers"
-categories: blog
+categories: Podcasts
 featured-image: "/images/blog/ScienceLovers/laboratory-test-tubes.jpg"
 featured-image-alt: Labratory with blue test tubes
 description: "In today's world, podcasts are proving to be great tools for learning; there is a growing need for content creators to provide educative materials that were previously only available via books."

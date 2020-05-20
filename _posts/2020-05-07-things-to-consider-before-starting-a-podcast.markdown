@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things to consider before starting a podcast"
-categories: blog
+categories: Podcaster
 featured-image: "/images/blog/ThingsToConcider/ThingsToConsiderBeforeStartingPodcast.png"
 featured-image-alt: Man looking at the Podcast Alarm discover view with headphones on
 description: "Creating a podcast is no different from creating a blog or a YouTube channel and these days the advantages of having one are becoming more and more obvious. However, before starting one there are certain things to consider. Here are some of the most important ones"

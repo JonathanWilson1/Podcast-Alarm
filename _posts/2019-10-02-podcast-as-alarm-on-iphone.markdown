@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to set a podcast as an alarm on iphone?"
-categories: blog
+categories: Podcasts
 featured-image: "/images/blog/PodcastAlarmSetAlarm.jpg"
 featured-image-alt: Woman holding an iPhone 8 with the PA set alarm screen visible
 description: "Wake up early and listen to your favourite show, or sleep easy knowing that you wont miss the latest episode of a gripping drama. Podcast alarm is an alarm clock that plays podcasts!"

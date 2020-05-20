@@ -1,0 +1,16 @@
+
+<div class="featured-card mb-3">
+  <div class="row no-gutters">
+    <div class="col-md-7">
+      <a href="{{ post.url }}"><img src="{{ post.featured-image }}" class="featured-card-img" alt="{{ post.featured-image-alt }}"></a>
+    </div>
+    <div class="col-md-5">
+      <div class="card-body">
+        <h6 class="card-tag">{{ post.categories }}</h6>
+        <a href="{{ post.url }}"><h1 class="card-title">{{ post.title }}</h1></a>
+        <a href="{{ post.url }}"><h5 class="card-body">{{ post.description }}</h5></a>
+        <h6>By <a class="text-info" href="{{ post.url }}">{{ post.author }}</a></h6>
+      </div>
+    </div>
+  </div>
+</div>
