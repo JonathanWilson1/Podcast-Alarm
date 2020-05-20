@@ -1,0 +1,22 @@
+<div class="card mb-3">
+<div class="row no-gutters">
+  <div class="col-md-10">
+    <div class="card-body">
+      <h5 class="card-title">{{ include.title }}</h5>
+      <p class="card-text">{{ include.content }}</p>
+
+      <p class="card-text">
+        <small class="text-muted">
+          <a target="\_blank" class="text-info" href="{{ include.link }}">Find out more</a>
+        </small>
+      </p>
+      
+    </div>
+  </div>
+  <div class="col-md-2">
+    <a target="\_blank" class="text-info" href="{{ include.link }}">
+      <img src="{{ include.image }}" class="mr-3 rounded" alt="{{ include.title }}" height="200">
+    </a>
+  </div>
+</div>
+</div>
