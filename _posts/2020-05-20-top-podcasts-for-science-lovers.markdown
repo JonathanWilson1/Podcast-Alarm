@@ -18,7 +18,7 @@ authorImage: "/images/blog/default.png"
 
 {% include blogPostListItem.html
   title="1) StarTalk Radio"
-  content="A fusion of astronomical concepts and stories, world-renowned astrophysicist, and director of the Hayden Planetarium Tyson Neil deGrasse Tyson is the host of the massive StarTalk Radio. His ability to simplify even the most seemingly toughest part of astronomy into layman's terms has brought the rise of this podcast.  StarTalk has been running for over a decade and has close to 500 episodes. A normal episode usually involves inviting guests from different works of life to talk about all things Space related. If you love, the Milky Way this podcast is for you."
+  content="A fusion of astronomical concepts and stories, world-renowned astrophysicist, and director of the Hayden Planetarium Neil deGrasse Tyson is the host of the massive StarTalk Radio. His ability to simplify even the most seemingly toughest part of astronomy into layman's terms has brought the rise of this podcast.  StarTalk has been running for over a decade and has close to 500 episodes. A normal episode usually involves inviting guests from different works of life to talk about all things Space related. If you love, the Milky Way this podcast is for you."
   link="https://www.startalkradio.net"
   image="/images/blog/ScienceLovers/StarTalkLogo.jpg"
 %}
