@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Podcast Alarm Help and FAQ
-permalink: /faq
+permalink: /FAQ
 ---
 
 <!-- <br>
