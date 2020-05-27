@@ -33,9 +33,11 @@ authorImage: "/images/blog/me.jpeg"
 <li class="list-group-item">3) Press on the plus icon to queue up your selected episode</li>
 </ul>
 
-<br/>
-<img src="/images/blog/podcastAsAlarm/FirstSteps.png" alt="Podcast Host" width="100%"/>
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/podcastAsAlarm/FirstSteps.png"
+  alt="Podcast Alarm first steps to set an alarm"
+  source=""
+%}
 
 <br/>
 <h3>Set your selected podcast as an alarm</h3>
@@ -50,9 +52,11 @@ authorImage: "/images/blog/me.jpeg"
 <li class="list-group-item">8) ⏰ Your alarm plays! (Even if the app is/was in the background)</li>
 </ul>
 
-<br/>
-<img src="/images/blog/podcastAsAlarm/FirstSteps2.png" alt="Podcast Host" width="100%"/>
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/podcastAsAlarm/FirstSteps2.png"
+  alt="Podcast Alarm first steps to set an alarm part 2"
+  source=""
+%}
 
 <br/>
 <h3>Bonus - Set a recurring alarm from your favourite show</h3>
@@ -66,9 +70,11 @@ authorImage: "/images/blog/me.jpeg"
 <li class="list-group-item">4) Set your alarm as normal and you will hear the latest unheard episode at the time you set</li>
 </ul>
 
-<br/>
-<img src="/images/blog/podcastAsAlarm/FirstSteps3.png" alt="Podcast Host" width="100%"/>
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/podcastAsAlarm/FirstSteps3.png"
+  alt="Podcast Alarm first steps to set an alarm part 3"
+  source=""
+%}
 
 <h3>Now you are ready to set yourself up for success</h3>
 

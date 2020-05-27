@@ -19,9 +19,11 @@ authorImage: "/images/blog/default.png"
 
 <p>Arguably the most popular and most entertaining podcast currently in the world (if ratings are anything to go by). The Joe Rogan experience hosted by Joe Rogan himself has a listener base of over 190 million people and according to Apple, there are almost the same amount of downloads per month. As a former stand-up comedian, Joe invites different sets of people to his show, including fellow stand-up comedians, MMA fighters, politicians, and even conspiracy theorists. Launching in 2009, it is one of the first high profile podcasts to exist.</p>
 
-<br/>
-<img src="/images/blog/5Highest/JoeRoganPodcast.png" alt="Podcast Host" width="100%"/>
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/5Highest/JoeRoganPodcast.png"
+  alt="Joe Rogan Podcast"
+  source="Joe Rogan Podcast"
+%}
 
 <br>
 <h2>Karen Kilgariff and Georgia Hardstark</h2>  
@@ -30,10 +32,11 @@ authorImage: "/images/blog/default.png"
 
 <p>If you enjoy suspense and drama this podcast is for you, hosted by podcasters Karen Kilgariff and Georgia Hardstark. It started in 2006, and it is centred on crime, murder with a dash of humour &ndash; with its tagline being &ldquo;stay sexy and don&rsquo;t get murdered&rdquo;. Incredibly this money-making machine does not just stop at the podcast alone, it has amazingly drawn out five other spin-off podcasts, booming live shows, and a bestselling book.</p>
 
-<br/>
-<img src="/images/blog/5Highest/MyFavoriteMurder.jpg" alt="Podcast Host" width="100%"/>
-John Salangsang/Variety/REX/Shutterstock
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/5Highest/MyFavoriteMurder.jpg"
+  alt="My Favorite Murder Podcast"
+  source="John Salangsang"
+%}
 
 <br>
 <h2>Dave Ramsey</h2>
@@ -42,9 +45,11 @@ John Salangsang/Variety/REX/Shutterstock
 
 <p>Known as the finance guru, Dave Ramsey a businessman and author who uses is show to share financial and budgeting advice. The format of his podcast is a bit old school because it allows call-ins, but this has not stopped the money from rolling in. He averages about 13 million listeners every week and he broadcasts to over 600 radio stations. Dave Ramsey is showing that you do not have to be a part of the new school to make money from podcasting.</p>
 
-<br/>
-<img src="/images/blog/5Highest/DaveRamseyPodcast.jpg" alt="Podcast Host" width="100%"/>
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/5Highest/DaveRamseyPodcast.jpg"
+  alt="Dave Ramsey Podcast"
+  source="Dave Ramsey Podcast"
+%}
 
 <br>
 <h2>Dax Shepard</h2>
@@ -53,9 +58,11 @@ John Salangsang/Variety/REX/Shutterstock
 
 <p>Perhaps the most popular person on this list &ndash; Dax Shepard is a Hollywood star and podcaster. Dax&rsquo;s podcast style is very similar to Joe Regan &ndash; following in the trend of having a variety of guests on his show including many of Dax&rsquo;s Hollywood friends. Unlike Joe's, the Armchair Expert began in 2018 and has since seen sharp growth over that short amount of time.</p>
 
-<br/>
-<img src="/images/blog/5Highest/DaxShepardArmChairExpert.jpg" alt="Podcast Host" width="100%"/>
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/5Highest/DaxShepardArmChairExpert.jpg"
+  alt="Dax Shepard Arm Chair Expert Podcast"
+  source="Dax Shepard Arm Chair Expert Podcast"
+%}
 
 <br>
 <h2>Bill Simmons &ndash; $7 million</h2>
@@ -64,9 +71,10 @@ John Salangsang/Variety/REX/Shutterstock
 
 <p>The Bill Simmons Podcast is the go-to podcast for many sports lovers. Hosted by Ben Simmons himself, a former ESPN and the brainchild of The Ringer &ndash; his podcast has been said to be the most downloaded sports podcast of all time, which puts him on Apple&rsquo;s top 25 podcasts for the last 2 years. Founded in 2006 is inside knowledge of the American Sports network as proven important as it enables him to draw famous athletes to his show.</p>
 
-<br/>
-<img src="/images/blog/5Highest/BillSimmons.jpg" alt="Podcast Host" width="100%"/>
-Mike Windle / Getty Images for Vanity Fair
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/5Highest/BillSimmons.jpg"
+  alt="Bill Simmons Podcast"
+  source="Mike Windle / Getty Images for Vanity Fair"
+%}
 
 <p>So with all this money on the table, what are you waiting for? Get started on that podcast today and earn big bucks.</p>

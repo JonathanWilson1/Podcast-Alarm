@@ -20,9 +20,11 @@ authorImage: "/images/blog/me.jpeg"
 
 <p>Being able to select a niche that suits you is great, but will there be a show that interests you? The popularity of podcasts and low barrier of entry for content creators has lead to a huge amount of choice and you can now find a podcast on nearly every topic imaginable. Some examples would be, Animals, Sports, Business, Motivation, News, Science, Fiction, and many more.</p>
 
-<br/>
-<img src="/images/blog/WhatIsAPodcast/podcastHost.jpg" alt="Podcast Host" width="100%"/>
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/WhatIsAPodcast/podcastHost.jpg"
+  alt="Happy Female podcast host"
+  source=""
+%}
 
 <p>Celebrities have picked up on the popularity of podcasts too. Comedians, talk show hosts, and big personalities are leading the way by creating weakly episodes that give listeners light hearted content. These entertain listeners on their commutes to work or an hour of relaxation in the evening. Being a hands free medium lots of listeners use podcasts to supplement a daily activity, such as walking, chores, work, and sports.</p>
 

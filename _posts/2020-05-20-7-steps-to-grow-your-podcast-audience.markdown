@@ -29,10 +29,11 @@ authorImage: "/images/blog/default.png"
 
 <p>As most podcasters will tell you, this is one of the best ways to grow your audience. It has so many benefits, one of which is that the invited expert is most likely going to be an expert in your chosen niche, thereby improving your content for that week. Secondly, guests are also going to introduce their audience to your podcast, many of which will stick around for more. And finally, you get a bit of personal happiness having to had the opportunity to talk to one of your favourites and improving your network.</p>
 
-<br/>
-<img src="/images/blog/GrowYourPod/podcastStudio.jpg" alt="Podcast Host" width="100%"/>
-Photo by The Teens Network Daytime Show Studios from Pexels
-<br/><br/>
+{% include imageAndSource.html
+  image="/images/blog/GrowYourPod/podcastStudio.jpg"
+  alt="Typical Podcast Studio"
+  source="Photo by The Teens Network Daytime Show Studios from Pexels"
+%}
 
 <p>Always remember to keep tabs on your past guest. By congratulating them publicly on their big and little wins – you can always use that as an avenue to share your episode with them on social media and possibly invite them again.</p>
 
