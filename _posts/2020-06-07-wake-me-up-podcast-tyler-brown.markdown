@@ -28,9 +28,9 @@ authorImage: "/images/blog/me.jpeg"
 <br>
 {% include blogPostListItem.html
   title="Wake Me Up - Tyler Brown"
-  content="If you struggle to wake up in the morning, press the snooze button too many times, or just want a positive way to start your day, Wake Me Up is for you. It's where morning people are made. The guided morning routines get you out of bed, calm your mind, and start your day in the best possible way. Episodes incorporate mindfulness, meditation, motivation, and other scientifically-supported methods for mental health and well-being. Subscribe now, so you never miss a great day! "
+  content="If you struggle to wake up in the morning, press the snooze button too many times, or just want a positive way to start your day, Wake Me Up is for you. It's where morning people are made. The guided morning routines get you out of bed, calm your mind, and start your day in the best possible way. Episodes incorporate mindfulness, meditation, motivation, and other scientifically-supported methods for mental health and well-being. Subscribe now, so you never miss a great day!"
   link="https://www.wakemeuppodcast.com?utm_source=podcastalarm.app"
-  image="/images/blog/Top10MorningPodcasts/wake.jpg"
+  image="/images/blog/wakemeup/wake-me-up-podcast.jpg"
 %}
 
 <br>
