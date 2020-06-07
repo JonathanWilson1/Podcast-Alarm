@@ -39,7 +39,7 @@ authorImage: "/images/blog/me.jpeg"
 {% include blogPostListItem.html
   title="4) Wake Me Up"
   content="A new show that focuses on the morning routine, following a meditation like approach to gently bring you into the world with focus and inspiration. Raising questions and thoughts to help you focus on making your day a better one than the last. Perfect for the person that enjoys a gentle thought provoking wake up. "
-  link="https://wake-me-up.simplecast.com/?utm_source=podcastalarm.app"
+  link="https://www.wakemeuppodcast.com?utm_source=podcastalarm.app"
   image="/images/blog/Top10MorningPodcasts/wake.jpg"
 %}
 
