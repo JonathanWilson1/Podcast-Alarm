@@ -49,6 +49,12 @@ authorImage: "/images/blog/me.jpeg"
 <h2>What are your plans for the future?</h2>
 <p>Go full Bob Ross. A decade+ of building a top-notch show that makes people happy and teaches them that they can truly do anything they put their mind to.</p>
 
+{% include imageAndSource.html
+  image="/images/blog/wakemeup/Tyler-Brown-Wake-Me-Up.jpg"
+  alt="Tyler Brown - Creator of Wake Me Up"
+  source="Tyler Brown - Creator of Wake Me Up"
+%}
+
 <br>
 <h2>If you had one tip to help people have a better day what would that be?</h2>
 <p>Own your day. It's your day. You don't have the power to control everything that happens, but you do have complete control over how you respond to what happens. If you choose to be happy, and you practice the skill set to do so, you will find happiness everywhere you look every single day of your life.</p>
