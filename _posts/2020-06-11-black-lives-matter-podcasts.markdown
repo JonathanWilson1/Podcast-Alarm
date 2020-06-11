@@ -4,13 +4,13 @@ title: "Black Lives Matter Podcasts: Top 5 podcast to learn about Racism"
 categories: Podcasts
 featured-image: "/images/blog/blackLives/Black-Lives-Matter-Protesters.jpg"
 featured-image-alt: Photo by Kelly Lacy from Pexels - BLM Protesters
-description: "The Black Lives Matter movement as risen to great heights recently but most especially in 2020."
+description: "The Black Lives Matter movement has risen to great heights recently but most especially in 2020."
 permalink: /blog/black-lives-matter-podcasts
 author: "Telvin I."
 authorImage: "/images/blog/default.png"
 ---
 
-<p>The Black Lives Matter movement as risen to great heights recently but most especially in 2020. Its impact has most of the world talking and everybody seems to want to get involved one way or the other. It has also brought out the curiosity of those who do not fully understand it or are new to the term and the movement.</p>
+<p>The Black Lives Matter movement has risen to great heights recently but most especially in 2020. Its impact has most of the world talking and everybody seems to want to get involved one way or the other. It has also brought out the curiosity of those who do not fully understand it or are new to the term and the movement.</p>
 
 <p>It is great to crave the feeling to want to understand the concepts behind the movements.
 Compiled below is a list of podcasts that would not only educate you about black lives matter but also further explain to you the deeper content within the black community and how it relates to the world at large.</p>
