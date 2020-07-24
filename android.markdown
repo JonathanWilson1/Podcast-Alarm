@@ -4,10 +4,10 @@ title: Coming soon to Android
 permalink: /android
 ---
 
-<h3>The same great experince on your Android tablet and phone.</h3>
+<h3>The same great experience on your Android tablet and phone.</h3>
 
 <br>
-<p>We have been working hard on Podcast Alarm for iOS and now its time to start thinking about the Android version. To help us know you want it, to get the latest news, and to stay updated on our progress please sign up to our newsletter below. You will be the first to hear about the release.</p>
+<p>We have been working hard on Podcast Alarm for iOS and now it's time to start thinking about the Android version. To help us know you want it, to get the latest news, and to stay updated on our progress please sign up to our newsletter below. You will be the first to hear about the release.</p>
 
 <br>
 
