@@ -39,7 +39,44 @@ permalink: /blog/
 </div>
 
 <br/>
-{% for post in site.posts offset:9 %}
+
+{% for post in site.posts offset:9 limit:2 %}
+<div class="row">
+  <div class="col-sm d-flex align-items-stretch">
+    {% include blogPostItemHalfRow.html %}
+  </div>
+</div>
+{% endfor %}
+
+<div class="row">
+{% for post in site.posts offset:11 limit:3 %}
+  <div class="col-sm d-flex align-items-stretch">
+    {% include blogPostItem.html %}
+  </div>
+{% endfor %}
+</div>
+
+<br/>
+
+{% for post in site.posts offset:14 limit:4 %}
+<div class="row">
+  <div class="col-sm d-flex align-items-stretch">
+    {% include blogPostItemHalfRow.html %}
+  </div>
+</div>
+{% endfor %}
+
+<div class="row">
+{% for post in site.posts offset:18 limit:3 %}
+  <div class="col-sm d-flex align-items-stretch">
+    {% include blogPostItem.html %}
+  </div>
+{% endfor %}
+</div>
+
+<br/>
+
+{% for post in site.posts offset:21 %}
 <div class="row">
   <div class="col-sm d-flex align-items-stretch">
     {% include blogPostItemHalfRow.html %}
