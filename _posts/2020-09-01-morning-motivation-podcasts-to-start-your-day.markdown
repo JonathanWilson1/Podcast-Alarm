@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The best morning motivation podcasts to start your day"
+title: "The Best Morning Motivation Podcasts To Start Your Day"
 categories: Podcasts
 featured-image: "/images/blog/MotivationPodcastsToStart/morningmotivation.jpg"
 featured-image-alt: "Photo by Gareth Davies from Pexels"
