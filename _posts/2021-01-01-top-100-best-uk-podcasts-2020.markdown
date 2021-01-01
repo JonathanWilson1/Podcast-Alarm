@@ -4,10 +4,10 @@ title: "Top 100 Best UK Podcasts 2020"
 categories: Podcast
 featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
 featured-image-alt: "Photo by Kelly Sikkema on Unsplash"
-description: "We have combed through the internet to provide a list of the best podcasts for college students, talking on topics ranging from student life to money and science"
+description: "Check out our 100 best UK podcasts, this list is created using Apple's top charts and the users of Podcast Alarm"
 permalink: /blog/charts/top-100-best-uk-podcasts-2020
-author: "Telvin I."
-authorImage: "/images/blog/default.png"
+author: "Jonathan Wilson"
+authorImage: "/images/blog/me.png"
 ---
 
 <br>
