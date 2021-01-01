@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<header class="post-header d-none d-lg-block">
+  <div class="bgimg"></div>
+</header>
+
+<br><br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <br> {{ content }}
+      {% include callToActionRow.html %}
+    </div>
+  </div>
+
+  <br><br>
+  <div class="row">
+  {% for post in site.posts offset:1 limit:3 %}
+    <div class="col-sm d-flex align-items-stretch">
+      {% include blogPostItem.html %}
+    </div>
+  {% endfor %}
+  </div>
+  <br><br>
+</div>
+
+<!-- In this file to make use of .featuredImage -->
+<style type="text/css">
+  .bgimg {
+    background: url("{{ page.featured-image }}") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+  }
+</style>
