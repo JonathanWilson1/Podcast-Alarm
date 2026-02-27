@@ -1,33 +1,31 @@
-<br><br>
-<div class="container">
-  <div class="row">
+<div class="container py-5">
+  <div class="row align-items-center">
     <div class="col-lg-7">
-      <h1>The podcast player that lets you wake up inspired</h1>
-      <br><br>
-      <h3>
-        Download and create a list of your favourite podcasts. There are thousands to choose from, you can <b>wake up to any topic imaginable.</b> Then, either play now or set a time in the future to hear that episode.
-      </h3>
-
-      <br><br>
-      <div class="text-center d-none d-lg-block">
-        <br><br>
-        <a target="\_blank" href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/apple.svg" alt="Download on the Apple App store" height="60"/></a>
-        <a href="/android"><img src="/images/google.svg" alt="Download on the Google Play store" height="60"/></a>
-        <br><br><br><br>
+      <h1>Wake up to your favourite podcast</h1>
+      <p class="lead mt-3">
+        Set any podcast as your alarm. Wake up to the <b>latest episode every morning</b> — no more annoying ringtones.
+      </p>
+      <div class="mt-4">
+        <a target="_blank" href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/apple.svg" alt="Download on the Apple App store" height="55"/></a>
       </div>
-
     </div>
 
+    <!-- Desktop: video -->
     <div class="col-lg-5 text-center d-none d-lg-block">
-        <video playsinline autoplay height="650" loop muted preload id="video1">
-          <source src="/images/PodcastAlarmDemo.mp4" type="video/mp4">
-          <source src="/images/PodcastAlarmDemo.ogg" type="video/ogg">
-          Your browser does not support the video tag.
-        </video>
+      <video playsinline autoplay height="550" loop muted preload id="video1">
+        <source src="/images/PodcastAlarmDemo.mp4" type="video/mp4">
+        <source src="/images/PodcastAlarmDemo.ogg" type="video/ogg">
+      </video>
+    </div>
+
+    <!-- Mobile: image -->
+    <div class="col-12 text-center d-lg-none mt-4">
+      <img src="/images/HoldingPodcastAlarm.jpg" alt="Podcast Alarm app on phone" class="img-fluid rounded" style="max-height: 350px;" />
     </div>
   </div>
 </div>
 
 <script>
-    document.getElementById('video1').play();
+  var v = document.getElementById('video1');
+  if (v) v.play();
 </script>

@@ -1,0 +1,29 @@
+<div class="container py-5">
+  <div class="row mb-4">
+    <div class="col text-center">
+      <h2>From the blog</h2>
+      <p class="lead">Discover great podcasts to wake up to</p>
+    </div>
+  </div>
+  <div class="row">
+    {% for post in site.posts limit:3 %}
+    <div class="col-md-4 mb-4">
+      <div class="card h-100">
+        <a href="{{ post.url }}"><img src="{{ post.featured-image }}" class="card-img-top" alt="{{ post.featured-image-alt }}" style="object-fit: cover; height: 200px;" /></a>
+        <div class="card-body">
+          <a href="{{ post.url }}"><h5 class="card-title">{{ post.title }}</h5></a>
+          <p class="card-text text-muted" style="font-size: 0.9em;">{{ post.description | truncate: 100 }}</p>
+        </div>
+        <div class="card-footer text-center">
+          <a href="{{ post.url }}" class="text-info">Read more</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="row">
+    <div class="col text-center mt-2">
+      <a href="/blog/" class="btn btn-outline-info btn-lg">View all posts</a>
+    </div>
+  </div>
+</div>

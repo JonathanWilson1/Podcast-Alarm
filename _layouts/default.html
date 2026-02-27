@@ -83,7 +83,7 @@
         "width": 700
       },
       "datePublished": "{{page.date}}",
-      "dateModified": "{{page.date}}",
+      "dateModified": "{% if page.date-modified %}{{page.date-modified}}{% else %}{{page.date}}{% endif %}",
       "author": {
         "@type": "Person",
         "name": "{{page.author}}"
@@ -187,8 +187,7 @@
     <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a href="/android"><img src="/images/google.svg" alt="Download on the Google Play store" height="45"/></a>
-          <a target="\_blank" href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/apple.svg" alt="Download on the Apple App store" height="45"/></a>
+          <a target="_blank" href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/apple.svg" alt="Download on the Apple App store" height="45"/></a>
         </li>
       </ul>
     </div>
@@ -196,95 +195,43 @@
 
   {{ content }}
 
-  <footer class="page-footer font-small stylish-color-dark pt-4">
-
-    <div class="container-fluid bg-info">
-      <div class="row">
-        <br/>
-        <br/>
-      </div>
-    </div>
-    <br>
-
-    <ul class="list-unstyled list-inline text-center py-2">
-      <li class="list-inline-item">
-        <h5 class="mb-1">Subscribe to our newsletter</h5>
-      </li>
-      <li class="list-inline-item">
-        <form action="https://app.us9.list-manage.com/subscribe/post?u=6411a4819178dbb20b42d5339&amp;id=a2d15f45e6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
-          <input type="email" value="" name="EMAIL" class="form-control form-control-md" id="mce-EMAIL" placeholder="Email" required>
-          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6411a4819178dbb20b42d5339_a2d15f45e6" tabindex="-1" value=""></div>
-          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary btn-md"></div>
-        </form>
-      </li>
-    </ul>
-    <hr>
-
-    <!-- Footer Links -->
-    <div class="container text-center text-md-left">
+  <footer class="page-footer font-small pt-4" style="background-color: #2d3436; color: #dfe6e9;">
+    <div class="container text-center text-md-left py-4">
       <div class="row">
 
-        <div class="col-md-4 mx-auto">
-          <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Podcast Alarm</h5>
+        <div class="col-md-4 mx-auto mb-4">
+          <h5 class="font-weight-bold text-uppercase mb-3 text-white">Podcast Alarm</h5>
           <p>Replace your alarm clock with a podcast alarm, and wake up listening to what you want.</p>
-          <a class="text-info" href="mailto:jonathan@podcastalarm.app">Contact us</a>
         </div>
 
-        <hr class="clearfix w-100 d-md-none">
-
-        <div class="col-md-2 mx-auto">
-          <br>
+        <div class="col-md-2 mx-auto mb-4">
+          <h6 class="font-weight-bold text-uppercase mb-3 text-white">Links</h6>
           <ul class="list-unstyled">
-            <li>
-              <a href="/termsconditions/" class="text-info">Terms and Conditions</a>
+            <li class="mb-2">
+              <a href="/blog/" class="text-info">Blog</a>
             </li>
-            <li>
+            <li class="mb-2">
+              <a href="/FAQ" class="text-info">FAQ</a>
+            </li>
+            <li class="mb-2">
               <a href="/privacy-policy" class="text-info">Privacy Policy</a>
             </li>
-            <li>
-              <a href="/images/PressKit.pdf" class="text-info">Press Kit</a>
-            </li>
-            <li>
-              <a href="/android" class="text-info">Android</a>
+            <li class="mb-2">
+              <a href="/termsconditions/" class="text-info">Terms and Conditions</a>
             </li>
           </ul>
         </div>
 
-        <hr class="clearfix w-100 d-md-none">
-
-        <div class="col-md-2 mx-auto">
-          <br>
-          <ul class="list-unstyled">
-            <li>
-              <a target="_blank" rel="noreferrer" href="https://twitter.com/PodcastAlarm" class="text-info">Twitter</a>
-            </li>
-            <li>
-              <a target="_blank" rel="noreferrer" href="https://www.facebook.com/podcastalarm/" class="text-info">Facebook</a>
-            </li>
-            <li>
-              <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/podcastalarm/" class="text-info">Linkedin</a>
-            </li>
-            <li>
-              <a class="text-info" href="/blog/">Blog</a>
-            </li>
-            <li>
-              <a class="text-info" href="/FAQ">FAQ</a>
-            </li>
-          </ul>
-        </div>
-
-        <hr class="clearfix w-100 d-md-none">
-
-        <div class="col-md-2 mx-auto">
-          <br>
-          <a target="\_blank" href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/apple.svg" alt="Download on the Apple App store" width="165"/></a>
-          <a href="/android"><img src="/images/google.svg" alt="Download on the Google Play store" width="165"/></a>
+        <div class="col-md-3 mx-auto mb-4 text-center">
+          <h6 class="font-weight-bold text-uppercase mb-3 text-white">Download</h6>
+          <a target="_blank" href="https://apps.apple.com/app/podcast-alarm/id1441890371"><img src="/images/apple.svg" alt="Download on the Apple App store" width="165"/></a>
         </div>
 
       </div>
-      <br>
-      <br>
+    </div>
+
+    <div class="text-center py-3" style="background-color: rgba(0,0,0,0.2); color: #b2bec3;">
+      &copy; {{ site.time | date: '%Y' }} Podcast Alarm
     </div>
   </footer>
 

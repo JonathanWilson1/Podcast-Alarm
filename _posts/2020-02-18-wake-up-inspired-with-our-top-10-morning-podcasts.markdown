@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Our top 10 morning podcasts to wake up to"
+title: "10 Best Morning Podcasts to Wake Up To"
+date-modified: "2026-02-27"
 categories: Podcasts
 featured-image: "/images/blog/Top10MorningPodcasts/podcastalarmbed.jpg"
-featured-image-alt: Woman holding an iPhone x with the PA set alarm screen visible
-description: "Podcast Alarm helps hundreds of users find their favourite morning podcasts and we have created this list of the most popular options selected by our users."
+featured-image-alt: Woman holding an iPhone with the Podcast Alarm set alarm screen visible
+description: "Ditch the buzzing alarm — wake up to a podcast instead. Here are the 10 best morning shows for news, motivation, comedy and learning."
 permalink: /blog/top-10-morning-podcasts
 redirect_from: /blog/2020/02/18/wake-up-inspired-with-our-top-10-morning-podcasts.html
 author: "Jonathan Wilson"
@@ -84,3 +85,36 @@ authorImage: "/images/blog/me.jpeg"
   link="https://www.bbc.co.uk/programmes/p002vsxs/episodes/downloads"
   image="/images/blog/Top10MorningPodcasts/business.jpg"
 %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best podcasts to wake up to?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best podcasts to wake up to include The Daily by the New York Times, TED Talks Daily, Up First by NPR, Sky News Daily, and Before Breakfast. Short-format shows under 15 minutes work especially well as morning alarms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set a podcast as my alarm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Download Podcast Alarm from the App Store. Search for your favourite podcast, pick an episode or subscribe to auto-play the latest, set your alarm time, and you'll wake up to a podcast instead of a buzzing ringtone."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I wake up to the latest podcast episode automatically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Podcast Alarm lets you subscribe to a daily show and automatically plays the latest episode as your alarm every morning. No need to manually pick an episode each night."
+      }
+    }
+  ]
+}
+</script>

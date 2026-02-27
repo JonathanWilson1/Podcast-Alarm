@@ -4,84 +4,24 @@ title: Blog
 permalink: /blog/
 ---
 
-<div class="container">
+<div class="container py-4">
+  <h1 class="mb-4">Blog</h1>
 
-<div class="row">
-{% for post in site.posts limit:1 %}
-    {% include blogPostItemFullRow.html %}
-{% endfor %}
-</div>
-
-<div class="row">
-{% for post in site.posts offset:1 limit:3 %}
-  <div class="col-sm d-flex align-items-stretch">
-    {% include blogPostItem.html %}
+  <div class="row">
+    {% for post in site.posts %}
+    <div class="col-md-4 mb-4">
+      <div class="card h-100">
+        <a href="{{ post.url }}">
+          <img src="{{ post.featured-image }}" class="card-img-top" alt="{{ post.featured-image-alt }}" />
+        </a>
+        <div class="card-body d-flex flex-column">
+          <small class="text-muted mb-1">{{ post.categories }}</small>
+          <a href="{{ post.url }}"><h5 class="card-title">{{ post.title }}</h5></a>
+          <p class="card-text text-muted" style="font-size: 0.85em;">{{ post.description | truncate: 120 }}</p>
+          <small class="text-muted mt-auto">By {{ post.author }}</small>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
   </div>
-{% endfor %}
-</div>
-
-<br/>
-
-{% for post in site.posts offset:4 limit:2 %}
-<div class="row">
-  <div class="col-sm d-flex align-items-stretch">
-    {% include blogPostItemHalfRow.html %}
-  </div>
-</div>
-{% endfor %}
-
-<div class="row">
-{% for post in site.posts offset:6 limit:3 %}
-  <div class="col-sm d-flex align-items-stretch">
-    {% include blogPostItem.html %}
-  </div>
-{% endfor %}
-</div>
-
-<br/>
-
-{% for post in site.posts offset:9 limit:2 %}
-<div class="row">
-  <div class="col-sm d-flex align-items-stretch">
-    {% include blogPostItemHalfRow.html %}
-  </div>
-</div>
-{% endfor %}
-
-<div class="row">
-{% for post in site.posts offset:11 limit:3 %}
-  <div class="col-sm d-flex align-items-stretch">
-    {% include blogPostItem.html %}
-  </div>
-{% endfor %}
-</div>
-
-<br/>
-
-{% for post in site.posts offset:14 limit:4 %}
-<div class="row">
-  <div class="col-sm d-flex align-items-stretch">
-    {% include blogPostItemHalfRow.html %}
-  </div>
-</div>
-{% endfor %}
-
-<div class="row">
-{% for post in site.posts offset:18 limit:3 %}
-  <div class="col-sm d-flex align-items-stretch">
-    {% include blogPostItem.html %}
-  </div>
-{% endfor %}
-</div>
-
-<br/>
-
-{% for post in site.posts offset:21 %}
-<div class="row">
-  <div class="col-sm d-flex align-items-stretch">
-    {% include blogPostItemHalfRow.html %}
-  </div>
-</div>
-{% endfor %}
-
 </div>

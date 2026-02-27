@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Top Podcasts for Science Lovers"
+title: "8 Best Science Podcasts That Will Blow Your Mind"
+date-modified: "2026-02-27"
 categories: Podcasts
 featured-image: "/images/blog/ScienceLovers/laboratory-test-tubes.jpg"
-featured-image-alt: Labratory with blue test tubes
-description: "In today's world, podcasts are proving to be great tools for learning; there is a growing need for content creators to provide educative materials that were previously only available via books."
+featured-image-alt: Laboratory with blue test tubes
+description: "From astrophysics with Neil deGrasse Tyson to weird biology with Ologies — these 8 science podcasts make learning addictive. Perfect for your morning commute or alarm."
 permalink: /blog/top-podcasts-for-science-lovers
 author: "Telvin I."
 authorImage: "/images/blog/default.png"
@@ -71,3 +72,36 @@ authorImage: "/images/blog/default.png"
   link="https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads"
   image="/images/blog/ScienceLovers/TheInfiniteMonkeyCageLogo.jpg"
 %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best science podcasts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best science podcasts include StarTalk Radio with Neil deGrasse Tyson, Science Vs, Radiolab, Ologies, Naked Scientists, 60 Second Science, Stuff You Should Know, and The Infinite Monkey Cage with Professor Brian Cox."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a good short science podcast?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "60 Second Science by Scientific American is just one minute long and covers a different science topic every day. It's perfect if you don't have time for longer episodes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I wake up to a science podcast?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! With Podcast Alarm you can set any science podcast as your morning alarm and wake up learning something new every day."
+      }
+    }
+  ]
+}
+</script>

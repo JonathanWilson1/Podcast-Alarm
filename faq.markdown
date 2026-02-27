@@ -4,7 +4,7 @@ title: Podcast Alarm Help and FAQ
 permalink: /FAQ
 ---
 
-<p>If something is not working as you expect please reach out to me, Jonathan via <a class="text-info" href="mailto:jonathan@podcastalarm.app">email</a>, FaceBook or Twitter.</p>
+<p>If something is not working as you expect please leave a review on the App Store and we'll look into it.</p>
 
 <br>
 <h3>The alarm isn't ringing</h3>

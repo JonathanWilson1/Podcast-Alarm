@@ -38,21 +38,13 @@ authorImage: "/images/blog/me.jpeg"
 <br>
 <h2>Where can I listen to podcasts?</h2>
 
-<p>The quickest way to try out a podcast is to use <a target="\_blank" rel="noreferrer" href="https://podcasts.google.com" class="text-info">Googles new podcast website</a> but many people love the convenience of a mobile application. To get started with podcasts on your mobile phone we recommend you try out the main apps: </p>
+<p>The easiest way to get started is with a podcast app on your phone. Here are the most popular options:</p>
 
-<p>If you use a Mac, iPhone, or iPad then you should try out the <a target="\_blank" rel="noreferrer" href="https://apps.apple.com/us/app/apple-podcasts/id525463029" class="text-info">Apple Podcasts Player</a>, which is free to download from the Apple App Store on your device. Like most podcast players is lets your subscribe to your favourite shows and receive notifications when they are released. You also have all the standard audio controls and features to enable you to listen at faster speeds to cram more into less time.</p>
+<p><a target="_blank" rel="noreferrer" href="https://apps.apple.com/us/app/apple-podcasts/id525463029" class="text-info">Apple Podcasts</a> comes pre-installed on every iPhone and iPad. It lets you subscribe to your favourite shows, get notified about new episodes, and adjust playback speed to fit more into less time.</p>
 
-<a target="\_blank" rel="noreferrer" href="https://apps.apple.com/us/app/apple-podcasts/id525463029"><img src="/images/blog/WhatIsAPodcast/ApplePodcasts.png" alt="Download on the Apple App store" width="100%"/></a>
+<p><a target="_blank" rel="noreferrer" href="https://open.spotify.com/" class="text-info">Spotify</a> is the biggest podcast platform in the world and works on both iPhone and Android. If you already use Spotify for music, your podcasts will be right there alongside your playlists.</p>
 
-<br/>
-
-<p>If you are an Android user then start off with <a target="\_blank" rel="noreferrer" href="https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=en_GB" class="text-info">Google Podcasts</a>. Similar to the Apple Podcasts app, you get all the same features and tools. The main benefit to you is it will work on your Android device. </p>
-
-<a target="\_blank" rel="noreferrer" href="https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=en_GB"><img src="/images/blog/WhatIsAPodcast/GooglePodcasts.jpg" alt="Download on the Apple App store" width="100%"/></a>
-
-<br/>
-
-<p>If you want some additional features, including cleaner interfaces and better recommendations check out <a target="\_blank" rel="noreferrer" href="https://apps.apple.com/app/podcast-alarm/id1441890371" class="text-info">Podcast Alarm</a>. You can also use it to set an alarm to wake up to your newly discovered passion for podcasts. </p>
+<p>If you want to take it a step further, try <a target="_blank" rel="noreferrer" href="https://apps.apple.com/app/podcast-alarm/id1441890371" class="text-info">Podcast Alarm</a> — a podcast player that lets you set any episode as your morning alarm. Wake up to your favourite show instead of a buzzing ringtone.</p>
 
 <br>
 <h2>How do I find a podcast I would like?</h2>

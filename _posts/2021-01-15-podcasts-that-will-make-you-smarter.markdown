@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "6 Podcasts That Will Make You Smarter"
+title: "6 Podcasts That Will Actually Make You Smarter"
+date-modified: "2026-02-27"
 categories: Podcast
 featured-image: "/images/blog/smarter/dmitry-ratushny-O33IVNPb0RI-unsplash.jpg"
 featured-image-alt: "Photo by Dmitry Ratushny on Unsplash"
-description: "It is easy to feel overwhelmed with so many options, but if you are looking to add to your queue or just getting started - here are some of the best podcasts to make you smarter"
+description: "Want to learn something new every day? These 6 podcasts cover history, economics, psychology and more — set one as your morning alarm and wake up smarter."
 permalink: /blog/6-podcasts-that-will-make-you-smarter
 author: "Telvin I."
 authorImage: "/images/blog/default.png"
