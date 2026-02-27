@@ -5,7 +5,7 @@ permalink: /terms-conditions
 redirect_from: /termsconditions/
 ---
 
-Podcastalarm.app – Last updated 08/17/2019
+Podcastalarm.app – Last updated 02/27/2026
 AGREEMENT TO TERMS
 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and PodcastAlarm (“we,” “us” or “our”), concerning your access to and use of the Podcastalarm.app website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms and Conditions Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS and CONDITIONS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
