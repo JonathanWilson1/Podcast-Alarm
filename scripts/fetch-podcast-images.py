@@ -30,25 +30,15 @@ SCRIPT_DIR = Path(__file__).parent
 SITE_DIR = SCRIPT_DIR.parent
 DEFAULT_OUTPUT = SITE_DIR / "images" / "blog" / "charts" / "ukpodcasts2026"
 
-# Auto-detect API key from iOS app
-API_KEY_PATH = SITE_DIR.parent / "PodcastAlarm" / "PodcastAlarm" / "Services" / "PodcastAPI.swift"
-
 
 def find_api_key():
-    """Extract Listen Notes API key from PodcastAPI.swift."""
+    """Get Listen Notes API key from environment."""
     key = os.environ.get("LISTEN_NOTES_API_KEY")
-    if key:
-        return key
-
-    if API_KEY_PATH.exists():
-        content = API_KEY_PATH.read_text()
-        match = re.search(r'apiKey\s*=\s*"([^"]+)"', content)
-        if match:
-            return match.group(1)
-
-    print("Could not find Listen Notes API key.")
-    print(f"Set LISTEN_NOTES_API_KEY env var or check {API_KEY_PATH}")
-    sys.exit(1)
+    if not key:
+        print("Set LISTEN_NOTES_API_KEY environment variable first.")
+        print("Key is in PodcastAlarm/PodcastAlarm/Services/PodcastAPI.swift")
+        sys.exit(1)
+    return key
 
 
 def slugify(name):
