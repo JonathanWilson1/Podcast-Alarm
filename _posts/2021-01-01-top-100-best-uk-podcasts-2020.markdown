@@ -1,10 +1,10 @@
 ---
 layout: chart
-title: "Top 100 Best UK Podcasts 2020"
+title: "100 Best UK Podcasts — The Ultimate List (2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
 featured-image-alt: "Photo by Kelly Sikkema on Unsplash"
-description: "Check out our 100 best UK podcasts, this list is created using Apple's top charts and the users of Podcast Alarm"
+description: "The definitive list of the best British podcasts across true crime, comedy, news and culture. Ranked using Apple Charts and real listener data."
 permalink: /blog/charts/top-100-best-uk-podcasts-2020
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"

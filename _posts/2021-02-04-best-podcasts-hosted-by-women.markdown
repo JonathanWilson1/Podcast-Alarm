@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "7 Best Podcasts Hosted by Women You Need to Hear"
-date-modified: "2026-02-27"
+title: "7 Best Podcasts Hosted by Women (2026)"
+date-modified: "2026-03-13"
 categories: Podcast
 featured-image: "/images/blog/women/cowomen-UUPpu2sYV6E-unsplash.jpg"
 featured-image-alt: "Photo by CoWomen on Unsplash"
-description: "From finance tips to true crime and celebrity interviews — these 7 podcasts hosted by women are funny, smart, and worth adding to your morning alarm."
+description: "Brilliant female-hosted podcasts covering true crime, finance, culture and comedy. Featuring Call Your Girlfriend, Jill on Money, and 5 more worth bingeing."
 permalink: /blog/7-best-podcasts-hosted-by-women
 author: "Telvin I."
 authorImage: "/images/blog/default.png"

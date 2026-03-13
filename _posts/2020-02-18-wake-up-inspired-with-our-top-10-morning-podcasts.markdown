@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "10 Best Morning Podcasts to Wake Up To"
-date-modified: "2026-02-27"
+title: "10 Best Morning Podcasts to Start Your Day (2026)"
+date-modified: "2026-03-13"
 categories: Podcasts
 featured-image: "/images/blog/Top10MorningPodcasts/podcastalarmbed.jpg"
 featured-image-alt: Woman holding an iPhone with the Podcast Alarm set alarm screen visible
-description: "Ditch the buzzing alarm — wake up to a podcast instead. Here are the 10 best morning shows for news, motivation, comedy and learning."
+description: "Start every morning with a great podcast. News, motivation, comedy and learning — 10 shows picked by thousands of listeners. Updated for 2026."
 permalink: /blog/top-10-morning-podcasts
 redirect_from: /blog/2020/02/18/wake-up-inspired-with-our-top-10-morning-podcasts.html
 author: "Jonathan Wilson"

@@ -4,7 +4,7 @@ title: "10 Best Podcasts for Your Commute in 2026"
 categories: Podcast
 featured-image: "/images/blog/Top10MorningPodcasts/podcastalarmbed.jpg"
 featured-image-alt: "Person listening to a podcast on their commute"
-description: "Make your commute fly by with these 10 podcasts — from gripping true crime to laugh-out-loud comedy. Perfect for 20-minute rides or hour-long journeys."
+description: "The Daily, Up First, Conan O'Brien and more — 10 podcasts sorted by commute length. Short ride or long journey, there's a perfect show for your trip."
 permalink: /blog/best-podcasts-for-your-commute
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"

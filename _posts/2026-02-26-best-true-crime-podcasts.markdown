@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "8 Best True Crime Podcasts You Won't Be Able to Stop Listening To"
+title: "8 Best True Crime Podcasts in 2026 (Can't Stop Listening)"
 categories: Podcast
 featured-image: "/images/blog/women/cowomen-UUPpu2sYV6E-unsplash.jpg"
 featured-image-alt: "Person listening to a true crime podcast"
-description: "Gripping investigations, cold cases and real-life mysteries — these 8 true crime podcasts are addictive. Perfect for long drives, evening walks or your morning alarm."
+description: "Serial, Crime Junkie, Casefile and 5 more — the most gripping true crime podcasts with real investigations, cold cases and jaw-dropping twists."
 permalink: /blog/best-true-crime-podcasts
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
