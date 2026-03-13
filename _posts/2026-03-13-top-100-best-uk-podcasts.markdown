@@ -630,7 +630,7 @@ authorImage: "/images/blog/me.png"
     title="56) In Our Time"
     content=""
     link="#"
-    image="/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
+    image="/images/blog/charts/ukpodcasts2026/in-our-time.jpg"
   %}
   </div>
 
