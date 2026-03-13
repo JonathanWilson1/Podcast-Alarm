@@ -14,12 +14,32 @@ There are significant podcast niches with no coverage. This plan fills those gap
 
 All posts follow the proven pattern from recent posts (e.g. `best-podcasts-to-fall-asleep-to`):
 
-- `layout: post`
 - 8-12 podcast recommendations per post
 - Each entry: `<h3>N. Podcast Name</h3>` + `<p>2-3 sentence description</p>`
 - `{% include callToActionRow.html %}` after intro paragraph
 - Closing `<h2>` section tying back to the app with App Store link
-- Front matter: title (under 60 chars with "(2026)"), description (150-160 chars, include 2-3 podcast names, never mention Podcast Alarm), permalink (no year in URL)
+
+### Front Matter Template
+
+```yaml
+layout: post
+title: "Best X Podcasts (2026)"          # under 60 chars, lead with keyword
+categories: Podcast
+featured-image: "/images/blog/charts/DIR/stock-image.jpg"  # reuse existing stock image
+featured-image-alt: "Description of image"
+description: "120-160 chars. Include 2-3 podcast names. Never mention Podcast Alarm."
+permalink: /blog/slug-here               # no year in URL, evergreen
+author: "Jonathan Wilson"
+authorImage: "/images/blog/me.png"
+```
+
+### File Naming
+
+Files use `YYYY-MM-DD-slug.markdown` (`.markdown` extension, not `.md`). Use publication date.
+
+### Title Format
+
+Use `Best X Podcasts (2026)` consistently — no counts, no clickbait hooks, no "in 2026". Keep it clean and under 60 chars.
 
 ## Image Pipeline
 
@@ -27,13 +47,14 @@ Each post requires podcast artwork fetched via `scripts/fetch-podcast-images.py`
 
 1. Write `podcasts.json` with `["Search query", "explicit-filename.jpg"]` pairs
 2. Run script with Listen Notes API key from `PodcastAPI.swift`
-3. Swap any NOT FOUND / WRONG MATCH podcasts and re-run until zero failures
-4. Verify no placeholder image references in post
+3. Output directory per post: `images/blog/charts/<slug>/` (e.g. `images/blog/charts/best-history-podcasts/`)
+4. Swap any NOT FOUND / WRONG MATCH podcasts and re-run until zero failures
+5. Verify no placeholder image references in post
 
 ## Meta SEO Rules
 
 - Title: under 60 chars, include (2026), lead with keyword
-- Description: 150-160 chars, include 2-3 podcast names, never mention Podcast Alarm
+- Description: 120-160 chars, include 2-3 podcast names, never mention Podcast Alarm
 - Permalink: `/blog/slug-here` (no year, evergreen URL)
 
 ## Posts to Create
@@ -71,7 +92,7 @@ Each post requires podcast artwork fetched via `scripts/fetch-podcast-images.py`
 | 22 | Best Podcasts for Teenagers (2026) | `/blog/best-podcasts-for-teenagers` |
 | 23 | Best Podcasts for Couples (2026) | `/blog/best-podcasts-for-couples` |
 | 24 | Best Podcasts for Long Flights (2026) | `/blog/best-podcasts-for-long-flights` |
-| 25 | Best Podcasts for Anxiety & Stress Relief (2026) | `/blog/best-podcasts-for-anxiety` |
+| 25 | Best Podcasts for Anxiety & Stress Relief (2026) | `/blog/best-podcasts-for-anxiety-stress-relief` |
 
 ## Production Process Per Post
 
@@ -96,3 +117,13 @@ Each post requires podcast artwork fetched via `scripts/fetch-podcast-images.py`
 - **No geo-targeting:** All posts target worldwide audience.
 - **New posts only:** No refreshing existing posts in this batch.
 - **Genre + use-case mix:** Genre posts for search volume, use-case posts for higher-intent listeners closer to the app's value prop.
+
+## Topic Overlap Notes
+
+- **Mental Health (#5) vs Anxiety (#25):** Mental health post covers broad topics (therapy, self-improvement, emotional wellbeing). Anxiety post focuses specifically on calming/stress-relief shows. Zero podcast overlap between the two.
+- **Health & Fitness (#11) vs Running (#16) / Gym (#19):** Health & Fitness focuses on nutrition, wellness, and general health education. Exclude exercise-specific shows covered in the running and gym posts.
+- **Economics (#14) vs existing Investment post:** Economics covers macroeconomics, policy, and economic thinking. Avoid personal finance/investing shows already in the investment post.
+
+## Internal Linking
+
+Cross-link related posts where natural (e.g. running post links to gym post, mental health links to anxiety post). Use the existing format: `<a class="text-info" href="/blog/slug">Title</a>`.
