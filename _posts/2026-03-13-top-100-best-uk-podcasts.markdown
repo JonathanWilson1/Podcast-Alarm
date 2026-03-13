@@ -132,7 +132,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
   {% include blogPostTopChartListItem.html
-    title="14) Taskmaster The Podcast"
+    title="14) Taskmaster"
     content=""
     link="#"
     image="/images/blog/charts/ukpodcasts2026/taskmaster-podcast.jpg"
@@ -141,7 +141,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="15) The Adam Buxton Podcast"
+      title="15) Adam Buxton"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/the-adam-buxton.jpg"
@@ -150,7 +150,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="16) Grounded with Louis Theroux"
+      title="16) Louis Theroux"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/grounded-with-louis.jpg"
@@ -165,7 +165,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
   {% include blogPostTopChartListItem.html
-    title="17) The Rest Is Entertainment"
+    title="17) Rest Is Entertainment"
     content=""
     link="#"
     image="/images/blog/charts/ukpodcasts2026/rest-is-entertainment.jpg"
@@ -174,7 +174,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="18) That Peter Crouch Podcast"
+      title="18) Peter Crouch"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/that-peter-crouch.jpg"
@@ -198,7 +198,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
   {% include blogPostTopChartListItem.html
-    title="20) Have You Heard George's Podcast?"
+    title="20) George The Poet"
     content=""
     link="#"
     image="/images/blog/charts/ukpodcasts2026/have-you-heard.jpg"
@@ -231,7 +231,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
   {% include blogPostTopChartListItem.html
-    title="23) Howie Mandel Does Stuff"
+    title="23) Howie Mandel"
     content=""
     link="#"
     image="/images/blog/charts/ukpodcasts2026/howie-mandel-does.jpg"
@@ -240,7 +240,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="24) Films to Be Buried With"
+      title="24) Films To Be Buried With"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/films-to-be.jpg"
@@ -460,7 +460,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="42) They Walk Among Us"
+      title="42) Walk Among Us"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/they-walk-among.jpg"
@@ -484,7 +484,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
   {% include blogPostTopChartListItem.html
-    title="44) Untold: Daniel Morgan Murder"
+    title="44) Untold"
     content=""
     link="#"
     image="/images/blog/charts/ukpodcasts2026/untold-daniel-morgan.jpg"
@@ -645,7 +645,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="58) Infinite Monkey Cage"
+      title="58) Monkey Cage"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/infinite-monkey-cage.jpg"
@@ -660,7 +660,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
   {% include blogPostTopChartListItem.html
-    title="59) 13 Minutes to the Moon"
+    title="59) 13 Min to the Moon"
     content=""
     link="#"
     image="/images/blog/charts/ukpodcasts2026/13-minutes-moon.jpg"
@@ -711,7 +711,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="64) Ologies with Alie Ward"
+      title="64) Ologies"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/ologies.jpg"
@@ -735,7 +735,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="66) Dan Snow's History Hit"
+      title="66) History Hit"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/dan-snow-history.jpg"
@@ -821,7 +821,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="73) The Tim Ferriss Show"
+      title="73) Tim Ferriss"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/the-tim-ferriss.jpg"
@@ -836,7 +836,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
   {% include blogPostTopChartListItem.html
-    title="74) My Therapist Ghosted Me"
+    title="74) Therapist Ghosted Me"
     content=""
     link="#"
     image="/images/blog/charts/ukpodcasts2026/my-therapist-ghosted.jpg"
@@ -854,7 +854,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="76) The Entrepreneur's Diary"
+      title="76) Entrepreneur's Diary"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/entrepreneurs-diary.jpg"
@@ -878,7 +878,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="78) On Purpose with Jay Shetty"
+      title="78) On Purpose"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/on-purpose-jay.jpg"
@@ -887,7 +887,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="79) The Squiggly Careers Podcast"
+      title="79) Squiggly Careers"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/squiggly-careers.jpg"
@@ -911,7 +911,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="81) Working Hard, Hardly Working"
+      title="81) Working Hard"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/working-hard.jpg"
@@ -944,7 +944,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="84) The Property Podcast"
+      title="84) Property Podcast"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/the-property-podcast.jpg"
@@ -997,7 +997,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="88) The Totally Football Show"
+      title="88) Totally Football"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/the-totally-football.jpg"
@@ -1054,7 +1054,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="93) Quickly Kevin, Will He Score?"
+      title="93) Quickly Kevin"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/quickly-kevin.jpg"
@@ -1087,7 +1087,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
     {% include blogPostTopChartListItem.html
-      title="96) The Empire Film Podcast"
+      title="96) Empire Film"
       content=""
       link="#"
       image="/images/blog/charts/ukpodcasts2026/empire-film.jpg"
@@ -1111,7 +1111,7 @@ authorImage: "/images/blog/me.png"
 
   <div class="col-md-4">
   {% include blogPostTopChartListItem.html
-    title="98) Comfort Eating with Grace Dent"
+    title="98) Comfort Eating"
     content=""
     link="#"
     image="/images/blog/charts/ukpodcasts2026/comfort-eating.jpg"
