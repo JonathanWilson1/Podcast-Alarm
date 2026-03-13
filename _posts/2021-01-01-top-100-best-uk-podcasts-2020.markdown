@@ -5,7 +5,7 @@ categories: Podcast
 featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
 featured-image-alt: "Photo by Kelly Sikkema on Unsplash"
 description: "The definitive list of the best British podcasts across true crime, comedy, news and culture. Ranked using Apple Charts and real listener data."
-permalink: /blog/charts/top-100-best-uk-podcasts-2020
+permalink: /blog/charts/top-100-best-uk-podcasts-2020-old
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
 ---
