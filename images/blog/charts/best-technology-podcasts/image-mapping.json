@@ -1,0 +1,24 @@
+{
+  "downloaded": [
+    "all-in-podcast.jpg"
+  ],
+  "skipped": [
+    "hard-fork-tech.jpg",
+    "lex-fridman-podcast.jpg",
+    "the-vergecast.jpg",
+    "darknet-diaries.jpg",
+    "waveform-mkbhd.jpg",
+    "accidental-tech-podcast.jpg"
+  ],
+  "not_found": [
+    "Acquired podcast Ben Gilbert David Rosenthal",
+    "No Priors AI podcast Sarah Guo Elad Gil"
+  ],
+  "wrong_match": [
+    [
+      "Pivot podcast Kara Swisher Scott Galloway",
+      "Pivot",
+      "pivot-podcast.jpg"
+    ]
+  ]
+}

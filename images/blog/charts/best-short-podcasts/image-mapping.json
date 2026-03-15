@@ -1,0 +1,27 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "indicator-planet-money.jpg",
+    "ted-talks-daily.jpg",
+    "6-minute-english-bbc.jpg",
+    "daily-stoic.jpg",
+    "before-breakfast.jpg",
+    "short-stuff-sysk.jpg",
+    "memory-palace.jpg"
+  ],
+  "not_found": [
+    "Science Quickly Scientific American podcast"
+  ],
+  "wrong_match": [
+    [
+      "Up First NPR podcast",
+      "Code Switch",
+      "up-first-npr.jpg"
+    ],
+    [
+      "Short Wave NPR science podcast",
+      "Guided Healing Meditation Podcast",
+      "short-wave-npr.jpg"
+    ]
+  ]
+}

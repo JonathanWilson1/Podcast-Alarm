@@ -1,0 +1,32 @@
+{
+  "downloaded": [
+    "all-in-podcast.jpg",
+    "lennys-podcast.jpg"
+  ],
+  "skipped": [
+    "my-first-million.jpg",
+    "diary-of-a-ceo.jpg",
+    "we-study-billionaires.jpg",
+    "indicator-planet-money.jpg"
+  ],
+  "not_found": [
+    "Acquired podcast Ben Gilbert David Rosenthal"
+  ],
+  "wrong_match": [
+    [
+      "How I Built This podcast Guy Raz",
+      "Unleash Your Inner Creative with Lauren LoGrasso (A Creativity Podcast)",
+      "how-i-built-this.jpg"
+    ],
+    [
+      "Masters of Scale podcast Reid Hoffman",
+      "Super Obvious with James Tuckerman",
+      "masters-of-scale.jpg"
+    ],
+    [
+      "WorkLife podcast Adam Grant",
+      "The Career Refresh with Jill Griffin: Leadership Strategy for Senior Professionals",
+      "worklife-adam-grant.jpg"
+    ]
+  ]
+}

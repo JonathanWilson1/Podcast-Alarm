@@ -1,0 +1,26 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "the-running-channel-podcast.jpg",
+    "the-morning-shakeout.jpg",
+    "the-runna-podcast.jpg",
+    "marathon-training-academy.jpg",
+    "citius-mag-podcast.jpg",
+    "the-rich-roll-podcast.jpg",
+    "freakonomics-radio.jpg",
+    "radiolab.jpg"
+  ],
+  "not_found": [],
+  "wrong_match": [
+    [
+      "Ali on the Run Show podcast",
+      "Slow Burn",
+      "ali-on-the-run-show.jpg"
+    ],
+    [
+      "Ten Junk Miles podcast",
+      "The Charla Anderson Show ~ Collector & Connector of Fascinating People (and EVERYONE is Fascinating!)",
+      "ten-junk-miles.jpg"
+    ]
+  ]
+}

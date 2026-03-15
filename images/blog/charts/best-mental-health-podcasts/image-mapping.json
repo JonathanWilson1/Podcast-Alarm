@@ -1,0 +1,26 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "hidden-brain.jpg",
+    "unlocking-us.jpg",
+    "therapy-for-black-girls.jpg",
+    "on-purpose-jay-shetty.jpg",
+    "where-should-we-begin.jpg",
+    "the-mel-robbins-podcast.jpg",
+    "feel-better-live-more.jpg",
+    "mental-illness-happy-hour.jpg"
+  ],
+  "not_found": [],
+  "wrong_match": [
+    [
+      "The Happiness Lab podcast Dr Laurie Santos",
+      "The Solo Collective",
+      "the-happiness-lab.jpg"
+    ],
+    [
+      "We Can Do Hard Things podcast Glennon Doyle",
+      "Brilliant Balance",
+      "we-can-do-hard-things.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "downloaded": [
+    "revolutions-mike-duncan.jpg"
+  ],
+  "skipped": [
+    "the-rest-is-history.jpg",
+    "hardcore-history.jpg",
+    "youre-dead-to-me.jpg",
+    "gone-medieval.jpg",
+    "stuff-you-missed-in-history.jpg"
+  ],
+  "not_found": [
+    "Fall of Civilizations podcast Paul Cooper",
+    "Throughline NPR podcast"
+  ],
+  "wrong_match": [
+    [
+      "In Our Time BBC Radio 4 podcast",
+      "Radio Times Podcast ",
+      "in-our-time-bbc.jpg"
+    ],
+    [
+      "HistoryExtra BBC History Magazine podcast",
+      "History's Greatest Conspiracy Theories",
+      "historyextra-bbc.jpg"
+    ]
+  ]
+}

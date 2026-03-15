@@ -1,0 +1,19 @@
+{
+  "downloaded": [
+    "econtalk.jpg",
+    "marketplace.jpg",
+    "capitalisnt.jpg"
+  ],
+  "skipped": [
+    "planet-money.jpg",
+    "freakonomics-radio.jpg",
+    "odd-lots.jpg",
+    "trade-talks.jpg"
+  ],
+  "not_found": [
+    "More or Less Tim Harford BBC podcast",
+    "Macro Musings David Beckworth podcast",
+    "Pitchfork Economics Nick Hanauer podcast"
+  ],
+  "wrong_match": []
+}

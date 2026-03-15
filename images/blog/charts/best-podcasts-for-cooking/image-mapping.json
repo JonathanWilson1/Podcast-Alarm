@@ -1,0 +1,23 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "home-cooking.jpg",
+    "the-recipe-kenji-deb.jpg",
+    "recipe-club.jpg",
+    "comfort-eating.jpg"
+  ],
+  "not_found": [
+    "Dinner SOS Bon Appetit podcast Chris Morocco",
+    "Milk Street Radio podcast Christopher Kimball",
+    "Cooking Issues podcast Dave Arnold",
+    "Chewed Up podcast Clinton Kelly Carla Hall Michael Symon",
+    "The Food Programme BBC Radio 4 podcast"
+  ],
+  "wrong_match": [
+    [
+      "Dish podcast Nick Grimshaw Angela Hartnett Waitrose",
+      "Dish",
+      "dish.jpg"
+    ]
+  ]
+}

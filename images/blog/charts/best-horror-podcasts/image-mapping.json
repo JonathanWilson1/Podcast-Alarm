@@ -1,0 +1,23 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "magnus-protocol-horror.jpg",
+    "nosleep-podcast-horror.jpg",
+    "lore-podcast-horror.jpg",
+    "old-gods-appalachia-horror.jpg",
+    "knifepoint-horror-podcast.jpg"
+  ],
+  "not_found": [
+    "Spooked podcast Glynn Washington",
+    "Uncanny podcast Danny Robins BBC",
+    "Radio Rental podcast Rainn Wilson",
+    "We're Alive zombie audio drama podcast"
+  ],
+  "wrong_match": [
+    [
+      "Astonishing Legends podcast",
+      "Richard Hatem's Paranormal Bookshelf",
+      "astonishing-legends-horror.jpg"
+    ]
+  ]
+}

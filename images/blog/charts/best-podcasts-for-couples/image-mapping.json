@@ -1,0 +1,27 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "where-should-we-begin-esther-perel.jpg",
+    "modern-love-nyt-podcast.jpg",
+    "jillian-on-love-turecki.jpg",
+    "no-stupid-questions-duckworth.jpg"
+  ],
+  "not_found": [
+    "Couple Things Shawn Johnson Andrew East podcast",
+    "Foreplay Radio couples sex therapy podcast",
+    "EmPowered Couples The Freemans podcast",
+    "Radiolab podcast Lulu Miller Latif Nasser"
+  ],
+  "wrong_match": [
+    [
+      "We Can Do Hard Things Glennon Doyle podcast",
+      "Brilliant Balance",
+      "we-can-do-hard-things-glennon-doyle.jpg"
+    ],
+    [
+      "Committed podcast Jo Piazza",
+      "She Wants More",
+      "committed-jo-piazza.jpg"
+    ]
+  ]
+}

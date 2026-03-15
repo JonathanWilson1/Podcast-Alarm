@@ -54,14 +54,29 @@ def slugify(name):
     return slug[:80]
 
 
+def normalize(text):
+    """Strip punctuation and lowercase for comparison."""
+    return re.sub(r"[^a-z0-9 ]", "", text.lower()).split()
+
+
 def title_matches(search_query, result_title):
     """Check if the search result is actually the podcast we wanted."""
-    query_words = set(search_query.lower().split()[:3])  # First 3 words of query
-    title_words = set(result_title.lower().split())
+    query_words = normalize(search_query)
+    title_words = set(normalize(result_title))
 
-    # At least 2 of the first 3 query words should appear in the result title
-    overlap = query_words & title_words
-    return len(overlap) >= min(2, len(query_words))
+    # Strip filler words from query (podcast, show, bbc, npr, etc.)
+    filler = {"podcast", "show", "bbc", "npr", "the", "with", "and", "from"}
+    meaningful = [w for w in query_words if w not in filler][:4]
+
+    if not meaningful:
+        meaningful = query_words[:2]
+
+    overlap = sum(1 for w in meaningful if w in title_words)
+
+    # For 1-word podcast names (e.g. "Heavyweight"), 1/1 is fine
+    # For multi-word, require at least half
+    required = max(1, len(meaningful) // 2)
+    return overlap >= required
 
 
 def search_podcast(query, headers):

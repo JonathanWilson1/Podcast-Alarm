@@ -1,0 +1,31 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "serial-podcast.jpg",
+    "slow-burn.jpg",
+    "darknet-diaries.jpg",
+    "ear-hustle.jpg",
+    "revisionist-history.jpg"
+  ],
+  "not_found": [
+    "Radiolab podcast Lulu Miller Latif Nasser WNYC",
+    "Cautionary Tales podcast Tim Harford"
+  ],
+  "wrong_match": [
+    [
+      "99% Invisible podcast Roman Mars",
+      "What Trump Can Teach Us About Con Law",
+      "99-percent-invisible.jpg"
+    ],
+    [
+      "Heavyweight podcast Jonathan Goldstein Pushkin",
+      "Heavyweight",
+      "heavyweight.jpg"
+    ],
+    [
+      "Drilled podcast Amy Westervelt climate",
+      "Drilled",
+      "drilled-podcast.jpg"
+    ]
+  ]
+}

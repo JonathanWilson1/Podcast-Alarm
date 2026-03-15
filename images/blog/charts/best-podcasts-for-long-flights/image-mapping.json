@@ -1,0 +1,27 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "hardcore-history.jpg",
+    "serial-podcast.jpg",
+    "lex-fridman.jpg",
+    "casefile-true-crime.jpg"
+  ],
+  "not_found": [
+    "Fall of Civilizations podcast Paul Cooper",
+    "Radiolab podcast Lulu Miller Latif Nasser",
+    "Criminal podcast Phoebe Judge",
+    "Stuff You Should Know podcast Josh Clark Chuck Bryant"
+  ],
+  "wrong_match": [
+    [
+      "You're Wrong About podcast Sarah Marshall",
+      "Noble Blood",
+      "youre-wrong-about.jpg"
+    ],
+    [
+      "No Such Thing As A Fish podcast QI",
+      "Everything Under The Sun",
+      "no-such-thing-as-a-fish.jpg"
+    ]
+  ]
+}

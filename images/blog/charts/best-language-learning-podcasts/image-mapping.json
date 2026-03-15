@@ -1,0 +1,19 @@
+{
+  "downloaded": [
+    "chinesepod.jpg"
+  ],
+  "skipped": [
+    "coffee-break-spanish.jpg",
+    "easy-german.jpg",
+    "nihongo-con-teppei.jpg",
+    "news-in-slow-spanish.jpg",
+    "one-thing-in-a-french-day.jpg",
+    "espanolistos.jpg",
+    "coffee-break-french.jpg"
+  ],
+  "not_found": [
+    "InnerFrench Hugo Cotton podcast",
+    "Talk To Me In Korean TTMIK podcast"
+  ],
+  "wrong_match": []
+}

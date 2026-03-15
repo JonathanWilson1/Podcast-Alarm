@@ -1,0 +1,28 @@
+{
+  "downloaded": [
+    "philosophize-this.jpg"
+  ],
+  "skipped": [
+    "very-bad-wizards.jpg",
+    "the-partially-examined-life.jpg",
+    "the-gray-area-vox.jpg",
+    "making-sense-sam-harris.jpg",
+    "hi-phi-nation.jpg",
+    "the-panpsycast.jpg"
+  ],
+  "not_found": [
+    "History of Philosophy Without Any Gaps Peter Adamson podcast"
+  ],
+  "wrong_match": [
+    [
+      "Philosophy Bites podcast Nigel Warburton David Edmonds",
+      "Practical Ethics Bites",
+      "philosophy-bites.jpg"
+    ],
+    [
+      "Overthink podcast Ellie Anderson David Pena-Guzman philosophy",
+      "Overthink",
+      "overthink-philosophy.jpg"
+    ]
+  ]
+}

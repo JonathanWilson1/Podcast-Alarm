@@ -2,7 +2,7 @@
 layout: chart
 title: "100 Best UK Podcasts — The Ultimate List (2026)"
 categories: Podcast
-featured-image: "/images/blog/charts/100UK2020/kelly-sikkema-1KfV102FCcQ-unsplash.jpg"
+featured-image: "/images/blog/charts/100UK2020/collage-banner.jpg"
 featured-image-alt: "Best UK podcasts list"
 description: "The definitive list of the best British podcasts across true crime, comedy, news and culture. Ranked using Apple Charts and real listener data."
 permalink: /blog/charts/top-100-best-uk-podcasts

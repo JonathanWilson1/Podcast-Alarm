@@ -1,0 +1,23 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "good-inside-dr-becky.jpg",
+    "parenting-hell.jpg",
+    "janet-lansbury-unruffled.jpg",
+    "care-and-feeding-slate.jpg",
+    "your-parenting-mojo.jpg",
+    "the-dad-edge.jpg"
+  ],
+  "not_found": [
+    "ParentData Emily Oster podcast",
+    "Raising Good Humans Dr Aliza Pressman podcast",
+    "One Bad Mother podcast Biz Ellis"
+  ],
+  "wrong_match": [
+    [
+      "The Longest Shortest Time Hillary Frank podcast",
+      "Here Lies Me",
+      "longest-shortest-time.jpg"
+    ]
+  ]
+}

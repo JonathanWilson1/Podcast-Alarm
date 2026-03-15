@@ -1,0 +1,24 @@
+{
+  "downloaded": [
+    "heavyweight.jpg",
+    "philosophize-this.jpg"
+  ],
+  "skipped": [
+    "everything-everywhere-daily.jpg",
+    "ten-percent-happier.jpg"
+  ],
+  "not_found": [
+    "Radiolab podcast Lulu Miller Latif Nasser",
+    "Ramblings podcast Clare Balding BBC",
+    "99 Percent Invisible podcast Roman Mars",
+    "Cautionary Tales podcast Tim Harford",
+    "Stuff You Should Know podcast Josh Clark Chuck Bryant"
+  ],
+  "wrong_match": [
+    [
+      "You're Wrong About podcast Sarah Marshall",
+      "Noble Blood",
+      "youre-wrong-about.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "downloaded": [
+    "ologies-alie-ward.jpg",
+    "life-kit-npr.jpg"
+  ],
+  "skipped": [
+    "stuff-you-should-know.jpg",
+    "anything-goes-emma-chamberlain.jpg",
+    "the-mortified-podcast.jpg",
+    "diary-of-a-ceo-steven-bartlett.jpg",
+    "startalk-radio-neil-degrasse-tyson.jpg"
+  ],
+  "not_found": [
+    "Radiolab podcast Lulu Miller Latif Nasser",
+    "Science Vs podcast Wendy Zukerman",
+    "Smosh Mouth podcast Shayne Topp"
+  ],
+  "wrong_match": []
+}

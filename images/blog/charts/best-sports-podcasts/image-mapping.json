@@ -1,0 +1,23 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "bill-simmons-podcast.jpg",
+    "peter-crouch-podcast.jpg",
+    "f1-beyond-the-grid.jpg",
+    "the-lowe-post.jpg",
+    "athletic-football-podcast.jpg",
+    "pardon-my-take.jpg",
+    "the-rugby-pod.jpg",
+    "no-laying-up.jpg"
+  ],
+  "not_found": [
+    "The Old Man and the Three JJ Redick"
+  ],
+  "wrong_match": [
+    [
+      "Tailenders Greg James Jimmy Anderson cricket",
+      "Tailenders",
+      "tailenders-cricket.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "downloaded": [
+    "foundmyfitness.jpg",
+    "maintenance-phase.jpg"
+  ],
+  "skipped": [
+    "huberman-lab.jpg",
+    "modern-wisdom.jpg",
+    "genius-life.jpg",
+    "mind-pump.jpg",
+    "doctors-kitchen.jpg"
+  ],
+  "not_found": [
+    "The Model Health Show Shawn Stevenson podcast"
+  ],
+  "wrong_match": [
+    [
+      "The Peter Attia Drive podcast",
+      "Equal and Opposite Reaction",
+      "peter-attia-drive.jpg"
+    ],
+    [
+      "ZOE Science and Nutrition podcast",
+      "Midlife Body Reset| Boost Energy , Weight Loss Over 40 , Balance Hormones , GLP1 , Anti-Aging, Faith, Consistency",
+      "zoe-science-nutrition.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "downloaded": [
+    "mind-pump-raw-fitness-truth.jpg"
+  ],
+  "skipped": [
+    "huberman-lab.jpg",
+    "jocko-podcast.jpg",
+    "joe-rogan-experience.jpg",
+    "diary-of-a-ceo.jpg"
+  ],
+  "not_found": [
+    "Iron Culture podcast Eric Helms",
+    "Revive Stronger podcast Steve Hall"
+  ],
+  "wrong_match": [
+    [
+      "Barbell Medicine podcast Jordan Feigenbaum",
+      "Wits & Weights | Evidence-Based Fitness & Nutrition for Lifters Over 40",
+      "barbell-medicine.jpg"
+    ],
+    [
+      "Peter Attia Drive podcast",
+      "Equal and Opposite Reaction",
+      "peter-attia-drive.jpg"
+    ],
+    [
+      "3D Muscle Journey podcast",
+      "Wits & Weights | Evidence-Based Fitness & Nutrition for Lifters Over 40",
+      "3d-muscle-journey.jpg"
+    ]
+  ]
+}

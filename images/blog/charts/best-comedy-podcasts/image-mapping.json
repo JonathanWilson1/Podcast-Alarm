@@ -1,0 +1,27 @@
+{
+  "downloaded": [],
+  "skipped": [
+    "conan-obrien-needs-a-friend.jpg",
+    "off-menu-comedy.jpg",
+    "rest-is-entertainment.jpg",
+    "parenting-hell-comedy.jpg",
+    "my-dad-wrote-a-porno.jpg",
+    "beef-and-dairy-network.jpg",
+    "taskmaster-the-podcast.jpg"
+  ],
+  "not_found": [
+    "Shagged Married Annoyed Chris Ramsey"
+  ],
+  "wrong_match": [
+    [
+      "SmartLess Jason Bateman Will Arnett",
+      "SmartLess",
+      "smartless.jpg"
+    ],
+    [
+      "No Such Thing As A Fish QI",
+      "Lunchbox Envy",
+      "no-such-thing-as-a-fish.jpg"
+    ]
+  ]
+}

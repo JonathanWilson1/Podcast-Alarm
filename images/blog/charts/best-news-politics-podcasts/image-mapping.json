@@ -1,0 +1,18 @@
+{
+  "downloaded": [
+    "americast-bbc.jpg"
+  ],
+  "skipped": [
+    "the-daily-nyt.jpg",
+    "rest-is-politics-news.jpg",
+    "global-news-podcast-bbc.jpg",
+    "the-news-agents-politics.jpg",
+    "pod-save-america.jpg",
+    "today-in-focus-guardian.jpg",
+    "the-intelligence-economist.jpg",
+    "political-currency.jpg",
+    "ezra-klein-show.jpg"
+  ],
+  "not_found": [],
+  "wrong_match": []
+}
