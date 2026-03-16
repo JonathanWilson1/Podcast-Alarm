@@ -24,6 +24,7 @@ description: >-
   Alarm clock app that plays podcast episodes whenever you want.
   You can even wake up to the latest episode each day.
   Full featured podcast player too, no need to have more than one app.
+url: "https://www.podcastalarm.app"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: podcastalarm
 github_username: jonathanwilson1
