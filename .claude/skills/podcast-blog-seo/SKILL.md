@@ -40,12 +40,23 @@ authorImage: "/images/blog/me.png"
 
 <br>
 
-<h3>1. Podcast Name</h3>
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Podcast+Name">1. Podcast Name</a></h3>
+<img src="/images/blog/charts/NEWDIR/filename.jpg" alt="Podcast Name podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>2-3 sentences. What makes it good, who hosts it, why listen.</p>
+<br style="clear:both;">
 
-<h3>2. Podcast Name</h3>
+<h3><a class="text-info" href="https://podcasts.apple.com/gb/search?term=Podcast+Name+2">2. Podcast Name 2</a></h3>
+<img src="/images/blog/charts/NEWDIR/filename2.jpg" alt="Podcast Name 2 podcast artwork" width="100" style="border-radius:12px;float:left;margin:0 15px 15px 0;">
 <p>Description.</p>
+<br style="clear:both;">
 ```
+
+**CRITICAL: Every entry MUST have:**
+1. Apple Podcasts search link on the `<h3>`
+2. `<img>` tag with the podcast artwork image
+3. `<br style="clear:both;">` after the `<p>`
+
+**Never write `<h3>` + `<p>` without the image** — the inline artwork is a core part of every post's design. After fetching images, immediately wire them into the post before deploying.
 
 ### Step 2: Fetch images
 
