@@ -4,7 +4,7 @@ title: "Best Podcasts for Running (2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-podcasts-for-running/collage-banner.jpg"
 featured-image-alt: "Podcasts for running"
-description: "Ali on the Run, The Running Channel, The Morning Shakeout and more — 10 podcasts that make every run better, from 5Ks to ultras."
+description: "Huberman Lab, Ali on the Run, No Meat Athlete and more — 10 podcasts that make every run better, from 5K training to ultramarathons."
 permalink: /blog/best-podcasts-for-running
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"

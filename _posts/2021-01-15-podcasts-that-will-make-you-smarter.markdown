@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "6 Podcasts That Will Actually Make You Smarter"
-date-modified: "2026-03-13"
+title: "Best Podcasts to Make You Smarter (2026)"
+date-modified: "2026-03-20"
 categories: Podcast
 featured-image: "/images/blog/smarter/dmitry-ratushny-O33IVNPb0RI-unsplash.jpg"
 featured-image-alt: "Photo by Dmitry Ratushny on Unsplash"
-description: "Revisionist History, Hidden Brain, Freakonomics and 3 more — podcasts that teach you something new every episode. History, economics, psychology and science."
+description: "Hidden Brain, Freakonomics, Revisionist History and more — the best podcasts to make you smarter. Learn psychology, economics, history and science every episode."
 permalink: /blog/6-podcasts-that-will-make-you-smarter
 author: "Telvin I."
 authorImage: "/images/blog/default.png"

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "8 Best Science Podcasts for Curious Minds (2026)"
-date-modified: "2026-03-13"
+title: "Best Science Podcasts (2026): StarTalk, Ologies & More"
+date-modified: "2026-03-20"
 categories: Podcasts
 featured-image: "/images/blog/ScienceLovers/laboratory-test-tubes.jpg"
 featured-image-alt: Laboratory with blue test tubes
-description: "StarTalk, Ologies, Science Vs and more — 8 science podcasts that make complex topics fascinating. Handpicked for curious listeners who want to learn something new."
+description: "StarTalk, Ologies, Science Vs, Radiolab and more — the best science podcasts for curious minds. Updated for 2026 with shows that make complex topics fascinating."
 permalink: /blog/top-podcasts-for-science-lovers
 author: "Telvin I."
 authorImage: "/images/blog/default.png"

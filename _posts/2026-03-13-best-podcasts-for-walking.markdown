@@ -4,7 +4,7 @@ title: "Best Podcasts for Walking (2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-podcasts-for-walking/collage-banner.jpg"
 featured-image-alt: "Podcasts for walking"
-description: "Radiolab, Heavyweight, Ramblings and 7 more podcasts that make every walk better. Thoughtful, conversational shows perfect for 2026."
+description: "Radiolab, Heavyweight, Stuff You Should Know and more — 10 podcasts that make every walk better. Thoughtful, conversational shows for 2026."
 permalink: /blog/best-podcasts-for-walking
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"

@@ -1,0 +1,18 @@
+{
+  "downloaded": [
+    "up-and-vanished.jpg",
+    "darknet-diaries.jpg",
+    "dirty-john.jpg",
+    "bear-brook.jpg"
+  ],
+  "skipped": [
+    "casefile-true-crime.jpg",
+    "someone-knows-something.jpg",
+    "your-own-backyard.jpg",
+    "swindled.jpg",
+    "over-my-dead-body.jpg",
+    "scam-goddess.jpg"
+  ],
+  "not_found": [],
+  "wrong_match": []
+}

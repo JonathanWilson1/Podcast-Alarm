@@ -1,0 +1,23 @@
+{
+  "downloaded": [
+    "freakonomics-radio.jpg"
+  ],
+  "skipped": [
+    "serial.jpg",
+    "radiolab.jpg",
+    "planet-money.jpg",
+    "drilled.jpg",
+    "dirty-john.jpg",
+    "the-dropout.jpg",
+    "this-american-life.jpg",
+    "rough-translation.jpg"
+  ],
+  "not_found": [],
+  "wrong_match": [
+    [
+      "Reveal Center for Investigative Reporting",
+      "Reveal",
+      "reveal.jpg"
+    ]
+  ]
+}

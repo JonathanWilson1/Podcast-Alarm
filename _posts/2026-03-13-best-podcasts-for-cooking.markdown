@@ -4,7 +4,7 @@ title: "Best Podcasts for Cooking (2026)"
 categories: Podcast
 featured-image: "/images/blog/charts/best-podcasts-for-cooking/collage-banner.jpg"
 featured-image-alt: "Podcasts for cooking"
-description: "Home Cooking, Dinner SOS, Milk Street Radio and 7 more podcasts that make time in the kitchen fly. All actively releasing new episodes in 2026."
+description: "Salt Fat Acid Heat, Bon Appétit, Milk Street Radio and more — 10 podcasts that make time in the kitchen fly. All actively releasing in 2026."
 permalink: /blog/best-podcasts-for-cooking
 author: "Jonathan Wilson"
 authorImage: "/images/blog/me.png"
